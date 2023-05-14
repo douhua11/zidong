@@ -1,5 +1,5 @@
 
-defget_color（）：
+defget_color ():
 # 获取随机颜色
 get_colors = lambdan：list（map（lambdai：“  # ”+“%06x”%random.Randint（0，0xFFFFFF），range（n)))
 color_list = get_colors（100)
